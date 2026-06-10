@@ -8,3 +8,4 @@ for i in _1st:
         duplicates.append(i)
 
 print("Duplicates: ", duplicates)
+
